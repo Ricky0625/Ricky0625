@@ -1,4 +1,4 @@
-![readme-banner](D:\Desktop\github_readme\images\github_banner.jpg)
+![readme-banner](./images/github_banner.jpg)
 
 - 👀 I’m interested in web development, frontend design and web3!
 - 🌱 I’m currently learning JS, React JS
