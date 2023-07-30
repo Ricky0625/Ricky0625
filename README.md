@@ -10,6 +10,10 @@
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
+  
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Ricky0625&label=Profile%20Views&color=9&icon=6&pretty=false" />
+  </a>
 
   <h1>
     Hey, I'm Ricky
