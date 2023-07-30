@@ -10,10 +10,6 @@
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
-  
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Ricky0625&label=Profile%20Views&color=9&icon=6&pretty=false" />
-  </a>
 
   <h1>
     Hey, I'm Ricky
@@ -77,3 +73,4 @@
 | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ricky0625&theme=vue-dark)](https://git.io/streak-stats) |
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricky0625&show_icons=true&theme=vue-dark) |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky0625&layout=compact&theme=theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) |
+| [![](https://visitcount.itsvg.in/api?id=Ricky0625&label=Profile%20Views&color=9&icon=6&pretty=false)](https://visitcount.itsvg.in) |
