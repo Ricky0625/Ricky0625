@@ -43,13 +43,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
 </div>
 
 #### Currently learning / Interested in these :
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" />
@@ -68,9 +68,9 @@
   <div>
 </div>
 
-| :fire: **My Stats** |
-| :---: |
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ricky0625&theme=vue-dark)](https://git.io/streak-stats) |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricky0625&show_icons=true&theme=vue-dark) |
+|                                                                               :fire: **My Stats**                                                                                |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                          [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ricky0625&theme=vue-dark)](https://git.io/streak-stats)                          |
+|                                  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricky0625&show_icons=true&theme=vue-dark)                                   |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky0625&layout=compact&theme=theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) |
-| [![](https://visitcount.itsvg.in/api?id=Ricky0625&label=Profile%20Views&color=9&icon=6&pretty=false)](https://visitcount.itsvg.in) |
+|                        [![](https://visitcount.itsvg.in/api?id=Ricky0625&label=Profile%20Views&color=9&icon=6&pretty=false)](https://visitcount.itsvg.in)                        |
