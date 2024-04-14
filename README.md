@@ -21,11 +21,11 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=bash,linux,c,cpp,html,css,js,ts,vite,react,nodejs,nextjs,jest,tailwind,figma,java,py,git,github,vscode,md,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,linux,c,cpp,html,css,js,ts,npm,vite,react,nodejs,nextjs,jest,tailwind,mui,figma,java,py,git,github,vscode,md,discord,docker,php,nginx,arch,ubuntu)](https://skillicons.dev)
 
 ### :satisfied: Currently learning these :
 
-[![Currently learning](https://skillicons.dev/icons?i=docker,go)](https://skillicons.dev)
+[![Currently learning](https://skillicons.dev/icons?i=go,rust,laravel)](https://skillicons.dev)
 
 ---
 
