@@ -21,7 +21,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=bash,linux,c,cpp,html,css,js,ts,npm,vite,react,nodejs,nextjs,jest,tailwind,mui,figma,java,py,git,github,vscode,md,discord,docker,php,nginx,arch,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,linux,c,cpp,html,css,js,ts,npm,vite,bun,react,nodejs,nextjs,jest,tailwind,mui,figma,java,py,git,github,vscode,md,discord,docker,php,nginx,arch,ubuntu,neovim)](https://skillicons.dev)
 
 ### :satisfied: Currently learning these :
 
