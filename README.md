@@ -1,8 +1,10 @@
-<img src="https://storage.googleapis.com/gopherizeme.appspot.com/gophers/99bdd6fccf9f0b4e17e2327e746f5e682149d570.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="150" />
+[comment]: <> (<img src="https://storage.googleapis.com/gopherizeme.appspot.com/gophers/99bdd6fccf9f0b4e17e2327e746f5e682149d570.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="150" />)
 
-## About me
+[comment]: <> (## About me)
 
-Hey, I'm Ricky, a software engineer and Gopher-wannabe. Recovering from JavaScript fatigue, now on an exciting journey with Go. Started with React, but Go stole my heart. Let's connect if you're a fellow Gopher or just love the magic of software development! 🚀
+[comment]: <> (Hey, I'm Ricky, a software engineer and Gopher-wannabe. Recovering from JavaScript fatigue, now on an exciting journey with Go. Started with React, but Go stole my heart. Let's connect if you're a fellow Gopher or just love the magic of software development! 🚀)
+
+## Connect with me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rickywongtiongsong/)
 [![LinkedIn](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ricky_0625/)
