@@ -7,7 +7,7 @@
 ## Connect with me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rickywongtiongsong/)
-[![LinkedIn](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ricky_0625/)
+<!-- [![LinkedIn](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ricky_0625/) -->
 
 ## :hammer_and_wrench: Languages and Tools :
 
