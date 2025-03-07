@@ -27,7 +27,6 @@
 
 | :fire: **My Stats** :fire: |
 | :---: |
-| [![GitHub Streak](https://streak-stats.demolab.com?user=ricky0625&theme=whatsapp-dark)](https://git.io/streak-stats) |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricky0625&show_icons=true&theme=vue-dark) |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky0625&layout=compact&theme=theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) |
-| [![](https://visitcount.itsvg.in/api?id=Ricky0625&label=Profile%20Views&color=9&icon=6&pretty=false)](https://visitcount.itsvg.in) |
+| [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Ricky0625&theme=catppuccin-frappe&hide_border=true)](https://git.io/streak-stats) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricky0625&show_icons=true&theme=catppuccin_mocha) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky0625&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats) |
